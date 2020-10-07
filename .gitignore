@@ -1,0 +1,5 @@
+.idea
+application
+database/*
+nginx/logs
+*.rar
